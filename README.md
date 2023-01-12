@@ -1,6 +1,6 @@
 ### Welcome to my gihub profile)
 
-## I'm learn python, and i want to stay a good programmer
+## I'm learn python, and I want to stay a good programmer
 
 ## [my best product](https://github.com/EfimkaFeeD/pygameProject)
 
