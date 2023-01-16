@@ -1,7 +1,7 @@
-### Welcome to my gihub profile)
+### Welcome to my github profile)
 
-## I'm learn python, and I want to stay a good programmer
+## I learn python, and want to become a good developer
 
-## [my best product](https://github.com/EfimkaFeeD/pygameProject)
+## [my best project](https://github.com/EfimkaFeeD/pygameProject)
 
 ![](https://media.discordapp.net/attachments/1058423758781698088/1063127082017767564/Picsart_23-01-12_19-07-18-368.jpg)
