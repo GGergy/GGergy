@@ -8,4 +8,4 @@
 ### 3. [click](https://github.com/GGergy/notify-discord/)
 ## [currently work project](https://github.com/GGergy/tic-tac-toe-telegram) 
 
-[![Sa4NX.gif](https://s12.gifyu.com/images/Sa4NX.gif)]
+![Sa4NX.gif](https://s12.gifyu.com/images/Sa4NX.gif)
